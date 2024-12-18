@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "blog"
-  text: "cribug"
-  tagline: My great project tagline
+  name: "Rain"
+  text: ""
+  tagline: ""
   actions:
     - theme: brand
       text: Markdown Examples
